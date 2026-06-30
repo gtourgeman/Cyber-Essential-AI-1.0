@@ -1,5 +1,5 @@
 # ══════════════════════════════════════════════════════
-# CyberSentinel AI v3.0 - Backend (FastAPI)
+# CyberEssential AI v1.0 - Backend (FastAPI)
 # Multi-stage production build with non-root user
 # ══════════════════════════════════════════════════════
 
