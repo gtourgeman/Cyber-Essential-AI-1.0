@@ -1,12 +1,12 @@
-# CyberSentinel AI v3.0
+# CyberEssential AI v1.0
 
 ### Agentic Multi-Tool Cybersecurity Platform
 
 **33 real security tools. Provider-agnostic AI. Production-ready Docker stack. 100% local by default.**
 
-[![Tools](https://img.shields.io/badge/Security_Tools-33-00f0ff?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/3sk1nt4n/cybersentinel-ai)
-[![Docker](https://img.shields.io/badge/Docker-Production-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/3sk1nt4n/cybersentinel-ai)
-[![AI](https://img.shields.io/badge/AI-Agentic-a855f7?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/3sk1nt4n/cybersentinel-ai)
+[![Tools](https://img.shields.io/badge/Security_Tools-33-00f0ff?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/gtourgeman/Cyber-Essential-AI-1.0)
+[![Docker](https://img.shields.io/badge/Docker-Production-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/gtourgeman/Cyber-Essential-AI-1.0)
+[![AI](https://img.shields.io/badge/AI-Agentic-a855f7?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/gtourgeman/Cyber-Essential-AI-1.0)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 <br>
@@ -26,7 +26,7 @@
 
 ## What Is This?
 
-CyberSentinel AI is an **agentic cybersecurity platform** that runs entirely on your local machine through Docker. Unlike typical AI chatbots that just suggest commands, CyberSentinel **actually executes** security tools like Nmap, Nikto, Nuclei, SQLMap, and ZAP inside an isolated sandbox container, then uses AI to analyze the results in real time.
+CyberEssential AI is an **agentic cybersecurity platform** that runs entirely on your local machine through Docker. Unlike typical AI chatbots that just suggest commands, CyberSentinel **actually executes** security tools like Nmap, Nikto, Nuclei, SQLMap, and ZAP inside an isolated sandbox container, then uses AI to analyze the results in real time.
 
 - Every scanner runs live. Every API call is real. Every result is verified.
 - Switch between **4 AI providers** mid-conversation (Ollama, Claude, GPT, OpenRouter)
@@ -47,8 +47,8 @@ No cloud dependencies required. No subscriptions. No fake outputs.
 
 ### 1. Clone and configure
 ```bash
-git clone https://github.com/3sk1nt4n/cybersentinel-ai.git
-cd cybersentinel-ai
+git clone https://github.com/gtourgeman/Cyber-Essential-AI-1.0.git
+cd Cyber-Essential-AI-1.0
 cp .env.example .env    # Windows: copy .env.example .env
 ```
 
@@ -192,5 +192,5 @@ MIT License - use it, fork it, make it better.
 ---
 
 <p align="center">
-  Built by <a href="https://www.credly.com/users/eskintan/badges#credly"><strong>3sk1nt4n</strong></a> | Powered by <a href="https://solventcyber.com"><strong>SolventCyber.com</strong></a>
+  Built by <strong>Gilad Tourgeman</strong></a>
 </p>
