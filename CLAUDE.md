@@ -1,4 +1,4 @@
-# CyberSentinel AI v3.0 - Project Rules
+# CyberEssential AI v1.0 - Project Rules
 
 ## Style Rules
 - NEVER use em-dashes (the long dash). Always use regular hyphens/dashes (-).
