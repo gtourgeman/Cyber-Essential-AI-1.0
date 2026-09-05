@@ -60,7 +60,7 @@ First run pulls all images (~5-10 min). After that, startup takes ~30 seconds.
 
 ### 3. Pull the AI model
 ```bash
-docker exec -it cybersentinel-ai-ollama-1 ollama pull qwen3.8:27b
+docker exec -it cybersentinel-ai-ollama-1 ollama pull qwen:7b
 ```
 Downloads the local AI model (~4GB). One-time only.
 
